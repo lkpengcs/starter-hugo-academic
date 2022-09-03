@@ -1,7 +1,7 @@
 ---
 title: Linkai Peng
 role: Undergraduate Student
-avatar_filename: 形象照.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computer vision, medical image analysis,
   especially segmentation and domain adaptation.
 interests:
