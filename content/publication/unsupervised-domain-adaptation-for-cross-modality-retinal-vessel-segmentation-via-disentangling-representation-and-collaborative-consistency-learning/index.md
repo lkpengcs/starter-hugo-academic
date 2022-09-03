@@ -11,7 +11,7 @@ authors:
   - Z. Huang and X. Tang
 publication: In "Proceedings of the 2022 IEEE 19th International Symposium on
   Biomedical Imaging"
-publication_short: ISBI2022
+publication_short: In "ISBI2022"
 draft: false
 featured: false
 image:
